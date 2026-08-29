@@ -1,3 +1,4 @@
+// import tags
 import { useState, useEffect } from "react";
 import ClinicQueue from "../ClinicQueue";
 import Navbar from "../../../../shared/components/Navbar";
@@ -49,6 +50,7 @@ function SectionHeader({ subtitle, title, rightContent }) {
 }
 
 // ── Functional Sub-components ───────────────────────────────────────────────
+// if we want to change colors we can change here
 function HealthAlert() {
   return (
     <div className="bg-amber-50 border-b border-amber-200/60 px-4 py-2.5 transition-all">
