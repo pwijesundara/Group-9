@@ -74,6 +74,6 @@ export const removeAppointmentRequest = async ({ requestId, nurseId }) => {
     );
     return response.data;
   } catch (error) {
-    throw error.response?.data || { message: "Failed to remove appointment request" };
+    throw error.response?.data || { message: "Failed to remove appointment request" }; //error reponse
   }
 };
