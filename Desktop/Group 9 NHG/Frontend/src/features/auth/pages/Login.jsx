@@ -53,7 +53,7 @@ export default function Login({ onClose, onSwitchToRegister }) {
           </button>
         )}
 
-        {/* Logo */}
+        {/* Logo */}// NHG logo added
         <div className="flex justify-center mb-4">
           <div className="w-12 h-12 rounded-full bg-[#16243e] flex items-center justify-center">
             <Plus className="w-6 h-6 text-white" strokeWidth={2.5} />
@@ -69,7 +69,7 @@ export default function Login({ onClose, onSwitchToRegister }) {
           Sign in to your NHG Patient Portal account
         </p>
 
-        {/* Tabs */}
+        {/* Tabs */}// can switch to register
         <div className="flex bg-slate-100 rounded-lg p-1 mb-6">
           <button
             type="button"
