@@ -114,7 +114,7 @@ export default function ForgotPassword() {
                   : "text-slate-500 hover:text-slate-700"
               }`}
             >
-              Email
+              Email // veryfy the email address
             </button>
             <button
               type="button"
