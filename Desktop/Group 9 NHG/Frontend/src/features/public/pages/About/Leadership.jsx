@@ -28,7 +28,7 @@ const clinicalHeads = [
   { initials: "AP", name: "Dr. A. Perera",          role: "Head, OBG",          credentials: "MBBS, MD (OBG)",         dept: "Maternity & Gynaecology",    color: "bg-pink-200 text-pink-800" },
   { initials: "LF", name: "Dr. L. Fernando",        role: "Head, Radiology",    credentials: "MBBS, MD Radiology",     dept: "Radiology & Imaging",        color: "bg-teal-200 text-teal-800" },
 ];
-
+// this is admin details
 const adminLeads = [
   { initials: "IT", name: "Mr. I. Tissera",      role: "RTI Officer",               credentials: "LLB, Administration",        dept: "Right to information & compliance", color: "bg-slate-200 text-slate-700" },
   { initials: "CN", name: "Ms. C. Nanayakkara",  role: "Chief Nursing Officer",      credentials: "BSc Nursing, MSc",            dept: "Nursing services & patient care",   color: "bg-green-200 text-green-800" },
