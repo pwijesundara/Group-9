@@ -7,6 +7,8 @@ import { getAuthData } from "../../../shared/utils/auth";
 import { asArray } from "./labUtils";
 import PatientLabUploadsList from "./PatientLabUploadsList";
 
+/* Lab Reports */
+
 const getAuthPatientId = (authData) =>
   authData?.patientId || authData?.patientID || authData?.id || authData?.userId || "";
 
