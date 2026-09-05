@@ -1,5 +1,7 @@
 import { Plus } from "lucide-react";
 
+/* Lab Admin Header */
+
 export default function LabAdminHeader({ onCreate }) {
   return (
     <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
