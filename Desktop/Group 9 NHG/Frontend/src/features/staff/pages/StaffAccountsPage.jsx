@@ -8,6 +8,8 @@ import {
   updateNurse,
 } from "../services/staffService";
 
+/* Staff Accounts */
+
 const EMPTY_FORM = {
   firstName: "",
   lastName: "",
