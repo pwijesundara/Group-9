@@ -1,6 +1,8 @@
 import Navbar from "../../../../shared/components/Navbar";
 import Footer from "../../../../shared/components/Footer";
 
+/* Overview Page */
+
 const stats = [
   { value: "1,200+", label: "Hospital beds",       color: "text-teal-700" },
   { value: "40+",    label: "Medical specialties",  color: "text-blue-700" },
