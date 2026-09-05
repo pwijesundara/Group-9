@@ -2,6 +2,8 @@ import { useEffect, useRef } from "react";
 import { Upload } from "lucide-react";
 import LabField from "./LabField";
 
+/* Lab Report Form */
+
 export default function LabReportForm({
   error,
   form,
