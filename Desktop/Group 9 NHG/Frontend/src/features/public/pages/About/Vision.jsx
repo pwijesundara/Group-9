@@ -1,6 +1,8 @@
 import Navbar from "../../../../shared/components/Navbar";
 import Footer from "../../../../shared/components/Footer";
 
+/* Vision, Mission & Values Page */
+
 function Vision() {
   const values = [
     { name: "Excellence",     icon: "⭐", desc: "We pursue the highest standards in clinical care, research, training and patient safety at all times." },
