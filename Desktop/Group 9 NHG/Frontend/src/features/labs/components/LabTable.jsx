@@ -1,6 +1,8 @@
 import { Edit2, Search, Trash2 } from "lucide-react";
 import { getLabId } from "./labUtils";
 
+/* Lab Table */
+
 const getLabName = (lab) =>
   [lab.firstName, lab.lastName].filter(Boolean).join(" ") || "Lab account";
 

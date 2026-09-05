@@ -24,6 +24,8 @@ import {
 import { registerLabUser } from "../../auth/services/authService";
 import { getAuthData, ROLE } from "../../../shared/utils/auth";
 
+/* Lab Page */
+
 export default function LabPage() {
   const authData = getAuthData();
   const canManageLabs = authData?.role === ROLE.ADMIN;
