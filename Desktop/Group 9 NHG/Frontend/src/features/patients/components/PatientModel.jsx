@@ -244,7 +244,7 @@ export default function PatientModal({
           onClick={modal === "create" ? onCreate : onUpdate}
           className="flex-1 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white text-sm font-medium transition"
         >
-          {modal === "create" ? "Add Patient" : "Save Changes"}
+          {modal === "create" ? "Add Patient" : "Save Changes"}//tyui
         </button>
       </div>
     </ModalShell>

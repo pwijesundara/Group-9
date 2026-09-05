@@ -17,7 +17,7 @@ const cols = [
   {
     title: "Services",
     links: [
-      { label: "OPD Services",       to: "/services" },
+      { label: "OPD Services",       to: "/services" },//table added
       { label: "Inpatient Care",     to: "/services" },
       { label: "Emergency Services", to: "/services" },
       { label: "Laboratory",         to: "/services" },

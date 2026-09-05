@@ -16,7 +16,7 @@ export default function LoadingFallback() {
             <p className="mt-7 text-xs font-semibold uppercase tracking-[0.28em] text-blue-600">
               National Hospital Galle
             </p>
-            <h1 className="mt-3 text-2xl font-bold text-slate-950">
+            <h1 className="mt-3 text-2xl font-bold text-slate-950">//Donationgit
               Loading
             </h1>
             <p className="mt-3 text-sm leading-6 text-slate-600">

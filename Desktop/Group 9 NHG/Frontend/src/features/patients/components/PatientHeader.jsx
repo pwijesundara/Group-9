@@ -17,7 +17,7 @@ export default function PatientHeader({ totalPatients, onAdd }) {
         onClick={onAdd}
         className="flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white text-sm font-medium px-4 py-2 rounded-xl transition"
       >
-        <Plus size={15} /> Add Patient
+        <Plus size={15} /> Add Patient//size change
       </button>
     </div>
   );
