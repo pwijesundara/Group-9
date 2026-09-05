@@ -1,6 +1,8 @@
 import Navbar from "../../../../shared/components/Navbar";
 import Footer from "../../../../shared/components/Footer";
 
+/* Leadership Page */
+
 const executives = [
   {
     initials: "DR",
