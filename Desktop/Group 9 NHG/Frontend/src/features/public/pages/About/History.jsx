@@ -1,6 +1,8 @@
 import Navbar from "../../../../shared/components/Navbar";
 import Footer from "../../../../shared/components/Footer";
 
+/* History Page */
+
 const milestones = [
   {
     id: 1,
@@ -169,4 +171,4 @@ function HistoryPage() {
   );
 }
 
-export default HistoryPage;// madhuka
+export default HistoryPage;
